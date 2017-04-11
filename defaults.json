@@ -1,0 +1,6 @@
+{
+"MNIST.path":"C:\\Users\\TK\\Documents\\Thesis\\Thesis Java/Images//MNIST//",
+"NORB.path":"C:\\Users\\TK\\Documents\\Thesis\\Thesis Java/Images\\NORB",
+"CIFAR.path":"C:\\Users\\TK\\Documents\\Thesis\\Thesis Java/Images/cifar-10-binary//",
+"STL.path":"C:\\Users\\TK\\Documents\\Thesis\\Thesis Java/Images/stl10_binary//"
+}
